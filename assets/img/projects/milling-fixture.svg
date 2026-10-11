@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="t d">
+<title id="t">Milling fixture design</title><desc id="d">Mechanical line illustration of an angled milling fixture with clamp and workpiece.</desc>
+<defs><linearGradient id="b" x2="0" y2="1"><stop stop-color="#1a3042"/><stop offset="1" stop-color="#0c1927"/></linearGradient><pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#9bc0d4" stroke-opacity=".12"/></pattern></defs>
+<rect width="1200" height="720" fill="url(#b)"/><rect width="1200" height="720" fill="url(#g)"/>
+<g fill="none" stroke="#d9e6eb" stroke-width="9" stroke-linejoin="round"><path d="M250 470h700l-60 90H310z"/><path d="M350 470l130-220h310l160 220"/><path d="M465 250h340v220H465z"/><path d="M465 315h340M465 390h340"/><path d="M400 230h170v-65M760 230h110v-65"/><path d="M540 165h90M805 165h70"/></g>
+<g fill="none" stroke="#e5a65a" stroke-width="10" stroke-linecap="round"><path d="M590 170v-80"/><path d="M565 90h50"/><path d="M360 445h-70M840 445h70"/></g>
+<g fill="#8fb1c5" font-family="Arial,sans-serif"><text x="82" y="625" font-size="27" letter-spacing="5">MILLING FIXTURE · ALIGNMENT / CLAMPING / RIGIDITY</text><text x="82" y="105" font-size="20" letter-spacing="6">SOLIDWORKS / TOOL-DESIGN PROJECT</text></g>
+</svg>

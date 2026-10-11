@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="t d">
+<title id="t">Rapid PCB enclosure fit-check prototype</title><desc id="d">Isometric line drawing of a compact electronics enclosure and circuit board.</desc>
+<defs><linearGradient id="b" x2="0" y2="1"><stop stop-color="#1a3042"/><stop offset="1" stop-color="#0c1927"/></linearGradient><pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#9bc0d4" stroke-opacity=".12"/></pattern></defs>
+<rect width="1200" height="720" fill="url(#b)"/><rect width="1200" height="720" fill="url(#g)"/>
+<g fill="none" stroke="#d9e6eb" stroke-width="7" stroke-linejoin="round"><path d="M360 240 610 125l245 115-250 122z"/><path d="M360 240v225l245 120V362M855 240v225L605 585"/><path d="M405 250v190l200 98M810 252v190L610 538"/><path d="M450 240h315M450 280h315"/></g>
+<g fill="none" stroke="#e5a65a" stroke-width="8"><circle cx="465" cy="272" r="12"/><circle cx="760" cy="272" r="12"/><circle cx="465" cy="425" r="12"/><circle cx="760" cy="425" r="12"/><path d="M480 341h180l70 34v55"/></g>
+<g fill="#8fb1c5" font-family="Arial,sans-serif"><text x="82" y="625" font-size="27" letter-spacing="5">RAPID FIT-CHECK · VERIFY FIRST, PRINT FULL AFTER</text><text x="82" y="105" font-size="20" letter-spacing="6">3D CAD / ADDITIVE PROTOTYPING</text></g>
+</svg>

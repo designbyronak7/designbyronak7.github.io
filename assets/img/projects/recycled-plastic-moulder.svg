@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="t d">
+<title id="t">Recycled plastic injection moulding prototype</title><desc id="d">Technical illustration of a small injection moulding rig with hopper, heated barrel and hand lever.</desc>
+<defs><linearGradient id="b" x2="0" y2="1"><stop stop-color="#1a3042"/><stop offset="1" stop-color="#0c1927"/></linearGradient><pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#9bc0d4" stroke-opacity=".12"/></pattern></defs>
+<rect width="1200" height="720" fill="url(#b)"/><rect width="1200" height="720" fill="url(#g)"/>
+<g fill="none" stroke="#d9e6eb" stroke-width="9" stroke-linejoin="round"><path d="M250 510h700v55H250z"/><path d="M330 510V235h80v275M820 510V235h80v275"/><path d="M420 350h330v78H420z"/><path d="M450 285h95l-20 65h-55z"/><path d="M750 385h130"/><path d="M590 350V190h90v160"/><path d="M590 190h90"/><path d="M705 389h85v115h-85z"/></g>
+<g fill="none" stroke="#e5a65a" stroke-width="9" stroke-linecap="round"><path d="M465 325h240"/><path d="M635 190V115"/><path d="M615 115h40"/><path d="M530 448h190"/></g>
+<g fill="#8fb1c5" font-family="Arial,sans-serif"><text x="82" y="625" font-size="27" letter-spacing="5">RECYCLED PLASTIC · HEATING / INJECTION / MOULD TRIALS</text><text x="82" y="105" font-size="20" letter-spacing="6">TEAM CAPSTONE / ARDUINO-ASSISTED HEATING</text></g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 405" role="img" aria-labelledby="title desc">
+  <title id="title">Data center cable bus and enclosure concept</title>
+  <desc id="desc">Simplified cable bus runs connected through support and enclosure interfaces, not to scale.</desc>
+  <defs><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#355063" stroke-width="1"/></pattern></defs>
+  <rect width="720" height="405" fill="#142634"/><rect width="720" height="405" fill="url(#grid)"/>
+  <text x="42" y="48" fill="#91b4c2" font-family="monospace" font-size="13" letter-spacing="3">FIELD FIT / SYSTEM INTERFACE</text>
+  <path d="M64 145H265M64 186H265M64 227H265" stroke="#d7e1df" stroke-width="9"/>
+  <path d="M265 145V227" stroke="#d7e1df" stroke-width="9"/>
+  <rect x="265" y="114" width="180" height="147" rx="3" fill="#1c3444" stroke="#d7e1df" stroke-width="3"/>
+  <path d="M293 151H417M293 187H417M293 223H417" stroke="#dc9250" stroke-width="8"/>
+  <rect x="445" y="137" width="160" height="100" rx="3" fill="#243e4d" stroke="#d7e1df" stroke-width="3"/>
+  <path d="M445 187H417M605 187H665" stroke="#d7e1df" stroke-width="8"/>
+  <path d="M112 252v44M212 252v44M499 240v56M566 240v56" stroke="#dc9250" stroke-width="6"/>
+  <path d="M92 296H231M479 296H588" stroke="#91b4c2" stroke-width="4"/>
+  <text x="284" y="286" fill="#d7e1df" font-family="monospace" font-size="12" letter-spacing="1">TAP / TRANSITION</text>
+  <text x="466" y="215" fill="#d7e1df" font-family="monospace" font-size="11" letter-spacing="1">QUICK CONNECT</text>
+  <text x="42" y="357" fill="#d7e1df" font-family="monospace" font-size="13" letter-spacing="2">CABLE BUS · SUPPORTS · ENCLOSURES</text>
+  <text x="42" y="382" fill="#91b4c2" font-family="monospace" font-size="11" letter-spacing="2">SCHEMATIC · NOT TO SCALE · NOT A CUSTOMER DRAWING</text>
+</svg>

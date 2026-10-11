@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="t d">
+<title id="t">Adjustable cable-bus penetration assembly</title><desc id="d">Technical illustration of parallel bus bars passing through an adjustable mounting plate.</desc>
+<defs><linearGradient id="b" x2="0" y2="1"><stop stop-color="#15283a"/><stop offset="1" stop-color="#0b1724"/></linearGradient><pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#9bc0d4" stroke-opacity=".12"/></pattern></defs>
+<rect width="1200" height="720" fill="url(#b)"/><rect width="1200" height="720" fill="url(#g)"/>
+<g fill="none" stroke="#d8e6ed" stroke-width="8" stroke-linejoin="round"><path d="M150 260h900v250H150z"/><path d="M240 260v250M960 260v250"/><path d="M170 320h860M170 385h860M170 450h860"/></g>
+<g stroke="#e5a65a" stroke-width="12" stroke-linecap="round"><path d="M240 165v390M960 165v390"/><path d="M210 195h60M930 195h60M210 525h60M930 525h60"/></g>
+<g fill="#8fb1c5" font-family="Arial,sans-serif"><text x="82" y="625" font-size="27" letter-spacing="5">ADJUSTABLE PENETRATION · FIT / TOLERANCE / INSTALLATION</text><text x="82" y="105" font-size="20" letter-spacing="6">MECHANICAL SYSTEMS / GENERALIZED STUDY</text></g>
+<path d="M300 575h600" stroke="#e5a65a" stroke-width="2" stroke-dasharray="10 10"/>
+</svg>

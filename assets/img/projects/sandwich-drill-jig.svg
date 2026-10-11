@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="t d">
+<title id="t">Sandwich drill jig</title><desc id="d">Layered workpiece secured beneath a drill guide with clamp supports.</desc>
+<defs><linearGradient id="b" x2="0" y2="1"><stop stop-color="#1a3042"/><stop offset="1" stop-color="#0c1927"/></linearGradient><pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#9bc0d4" stroke-opacity=".12"/></pattern></defs>
+<rect width="1200" height="720" fill="url(#b)"/><rect width="1200" height="720" fill="url(#g)"/>
+<g fill="none" stroke="#d9e6eb" stroke-width="9" stroke-linejoin="round"><path d="M310 460h580v45H310zM340 505h520v40H340zM375 545h450v38H375z"/><path d="M430 460V310h340v150"/><path d="M450 310h300v80H450z"/><path d="M600 150v270"/><path d="M570 170h60M585 420h30"/><path d="M400 420h-80v40M800 420h80v40"/></g>
+<g fill="none" stroke="#e5a65a" stroke-width="9" stroke-linecap="round"><circle cx="520" cy="350" r="13"/><circle cx="680" cy="350" r="13"/><path d="M600 420v90"/></g>
+<g fill="#8fb1c5" font-family="Arial,sans-serif"><text x="82" y="625" font-size="27" letter-spacing="5">SANDWICH DRILL JIG · REPEATABLE ALIGNMENT / CLAMPING</text><text x="82" y="105" font-size="20" letter-spacing="6">SOLIDWORKS / TOOL-DESIGN PROJECT</text></g>
+</svg>
