@@ -1,5 +1,5 @@
 :root {
-  color-scheme: light;
+  color-scheme: light !important;
   --ronak-paper: #f4f2ec;
   --ronak-card: #fbfaf6;
   --ronak-ink: #252d2b;
@@ -31,7 +31,7 @@ main.container:has(.portfolio-home) { max-width: 1400px; }
 }
 .navbar .nav-link { color: var(--ronak-muted) !important; }
 .navbar .nav-link:hover, .navbar .nav-link.active { color: var(--ronak-accent) !important; }
-#theme-toggler { display: none !important; }
+#theme-toggler, .theme-toggler, [data-theme-toggle], [data-theme-switch] { display: none !important; }
 #attribution { display: none !important; }
 footer { border-top: 1px solid var(--ronak-rule); color: var(--ronak-muted); }
 a { color: var(--ronak-accent); }
