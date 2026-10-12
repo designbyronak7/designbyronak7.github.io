@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="t d">
-<title id="t">Soil-moisture irrigation controller</title><desc id="d">Block diagram of a moisture sensor, Arduino controller, relay and water pump.</desc>
-<defs><linearGradient id="b" x2="0" y2="1"><stop stop-color="#1a3042"/><stop offset="1" stop-color="#0c1927"/></linearGradient><pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#9bc0d4" stroke-opacity=".12"/></pattern></defs>
-<rect width="1200" height="720" fill="url(#b)"/><rect width="1200" height="720" fill="url(#g)"/>
-<g fill="none" stroke="#d9e6eb" stroke-width="7" stroke-linejoin="round"><rect x="140" y="270" width="210" height="145"/><rect x="495" y="270" width="210" height="145"/><rect x="850" y="270" width="210" height="145"/><path d="M350 340h145M705 340h145"/><path d="M245 415v100M955 415v100"/></g>
-<g fill="none" stroke="#e5a65a" stroke-width="9" stroke-linecap="round"><path d="M420 320l25 20-25 20M775 320l25 20-25 20"/><path d="M205 515h80M915 515h80"/><path d="M225 515v48M265 515v48M935 515v48M975 515v48"/></g>
-<g fill="#f3f6f4" font-family="Arial,sans-serif" text-anchor="middle"><text x="245" y="330" font-size="22">MOISTURE</text><text x="245" y="370" font-size="22">SENSOR</text><text x="600" y="330" font-size="22">ARDUINO</text><text x="600" y="370" font-size="22">+ RELAY</text><text x="955" y="330" font-size="22">WATER</text><text x="955" y="370" font-size="22">PUMP</text></g>
-<g fill="#8fb1c5" font-family="Arial,sans-serif"><text x="82" y="625" font-size="27" letter-spacing="5">PROOF OF CONCEPT · MOISTURE-BASED PUMP CONTROL</text><text x="82" y="105" font-size="20" letter-spacing="6">ARDUINO / SENSING / RELAY CONTROL</text></g>
-</svg>
