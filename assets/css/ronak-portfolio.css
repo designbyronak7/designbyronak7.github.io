@@ -141,6 +141,11 @@ a:hover { color: var(--ronak-accent-dark); }
 .blog-card { display: grid; grid-template-columns: minmax(0, .9fr) minmax(0, 1fr); align-items: stretch; }
 .blog-card img { height: 100%; aspect-ratio: 16 / 10; border-right: 1px solid var(--ronak-rule); border-bottom: 0; }
 .blog-read-more { display: inline-block; margin-top: .9rem; color: var(--ronak-accent); font-weight: 600; }
+.blog-story-photo { max-width: 560px; margin: 1.5rem auto; padding: .5rem; background: var(--ronak-card); border: 1px solid var(--ronak-rule); border-radius: 10px; }
+.blog-story-photo img { display: block; width: 100%; height: auto; max-height: 720px; object-fit: contain; border-radius: 5px; }
+.blog-story-photo figcaption { padding: .6rem .25rem .15rem; color: var(--ronak-muted); font-size: .88rem; }
+.blog-story-gallery { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1rem; margin: 1.5rem 0 2rem; }
+.blog-story-gallery .blog-story-photo { max-width: none; margin: 0; }
 .portfolio-disclosure { margin-top: 1.5rem; padding: 1rem 1.2rem; border-left: 3px solid var(--ronak-accent); background: #ece9e0; color: var(--ronak-muted); font-size: .92rem; }
 .portfolio-about h1, .portfolio-about h2, .portfolio-about h3 { font-family: Georgia, "Times New Roman", serif; }
 .portfolio-about h2 { margin-top: 2rem; }
@@ -174,4 +179,6 @@ a:hover { color: var(--ronak-accent-dark); }
   .lab-work-photo { margin: 0 auto; }
   .blog-card { grid-template-columns: 1fr; }
   .blog-card img { height: auto; border-right: 0; border-bottom: 1px solid var(--ronak-rule); }
+  .blog-story-gallery { grid-template-columns: 1fr; }
+  .blog-story-gallery .blog-story-photo { max-width: 560px; margin: 0 auto; }
 }
