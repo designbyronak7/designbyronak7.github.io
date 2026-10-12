@@ -19,6 +19,9 @@ permalink: /
       </div>
       <p class="portfolio-note">CSWA certified · OACETT member · P.Eng. applicant</p>
     </div>
+    <figure class="profile-portrait">
+      <img src="/assets/img/ronak-profile.jpg" alt="Ronak Mistry outdoors" width="600" height="600" fetchpriority="high">
+    </figure>
     <aside class="field-note">
       <h2>What I work with</h2>
       <ul>
