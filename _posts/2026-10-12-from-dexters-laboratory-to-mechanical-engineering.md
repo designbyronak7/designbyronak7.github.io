@@ -46,6 +46,14 @@ Service work also depended on good coordination. Customer visits had to be arran
     <img src="/assets/img/blog/compressor-internals.jpg" alt="Opened compressor showing copper windings and internal motor components" width="960" height="1280" loading="lazy" decoding="async">
     <figcaption>An opened compressor showing its winding and internal components.</figcaption>
   </figure>
+  <figure class="blog-story-photo">
+    <img src="/assets/img/blog/rooftop-hvac-filter-maintenance.jpg" alt="Technician replacing a filter in an open rooftop HVAC unit" width="900" height="584" loading="lazy" decoding="async">
+    <figcaption>Filter maintenance on a rooftop HVAC unit.</figcaption>
+  </figure>
+  <figure class="blog-story-photo">
+    <img src="/assets/img/blog/wall-mounted-air-conditioner-inspection.jpg" alt="Technician inspecting the filter of a wall-mounted air conditioner" width="900" height="584" loading="lazy" decoding="async">
+    <figcaption>Inspecting a filter in a wall-mounted air conditioner.</figcaption>
+  </figure>
 </div>
 
 Working with HVAC and appliance systems made me more interested in how motors, electrical controls, airflow, and heat interact. I also learned to look beyond the first fault: what else might contribute to it, whether the repair could be accessed, and how the equipment could be maintained.
