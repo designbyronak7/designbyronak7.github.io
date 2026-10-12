@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+<title id="title">Acetylene and petrol engine-test comparison</title>
+<desc id="desc">High-level diagram showing petrol and acetylene test cases compared on one spark-ignition engine, with fuel use recorded at four engine speeds. Prepared by Ronak Mistry.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#122637"/><stop offset="1" stop-color="#08141f"/></linearGradient>
+  <marker id="arrow" markerWidth="12" markerHeight="12" refX="9" refY="6" orient="auto"><path d="M0 0 12 6 0 12z" fill="#8eabb9"/></marker>
+</defs>
+<rect width="1200" height="420" rx="22" fill="url(#bg)"/>
+<g font-family="Arial,Helvetica,sans-serif">
+  <text x="60" y="58" fill="#91adc0" font-size="17" font-weight="700" letter-spacing="4">TEST COMPARISON</text>
+  <text x="60" y="99" fill="#f3f5f4" font-size="30" font-weight="700">Two fuel cases, one engine test</text>
+  <g fill="#172d3e" stroke="#527084" stroke-width="2">
+    <rect x="65" y="145" width="250" height="84" rx="14"/>
+    <rect x="65" y="260" width="250" height="84" rx="14"/>
+    <rect x="450" y="188" width="275" height="110" rx="16"/>
+    <rect x="860" y="188" width="270" height="110" rx="16"/>
+  </g>
+  <g fill="#dce7ec" font-size="18" font-weight="700">
+    <text x="96" y="181">CASE 01</text><text x="96" y="207" fill="#efb868">Petrol baseline</text>
+    <text x="96" y="296">CASE 02</text><text x="96" y="322" fill="#6ed1c3">Acetylene test</text>
+    <text x="587" y="229" text-anchor="middle">Spark-ignition</text><text x="587" y="256" text-anchor="middle">engine</text>
+    <text x="995" y="230" text-anchor="middle">Fuel use recorded</text><text x="995" y="258" text-anchor="middle">at four speeds</text>
+  </g>
+  <g fill="none" stroke="#8eabb9" stroke-width="3" marker-end="url(#arrow)">
+    <path d="M315 187H390Q420 187 450 218"/>
+    <path d="M315 302H390Q420 302 450 268"/>
+    <path d="M725 243H845"/>
+  </g>
+  <text x="60" y="388" fill="#9db1bc" font-size="15">Conceptual summary of the reported comparison, not an equipment or operating diagram.</text>
+  <text x="1135" y="388" text-anchor="end" fill="#f3f5f4" font-size="15" font-weight="700" letter-spacing="2">RONAK MISTRY</text>
+</g>
+</svg>

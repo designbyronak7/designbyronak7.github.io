@@ -1,5 +1,6 @@
 ---
 title: Clean Coding
+published: false
 tags: [Software Development, Clean Code]
 style: fill
 color: info

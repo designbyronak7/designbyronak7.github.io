@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+<title id="title">Fuel consumption by engine speed: petrol and acetylene</title>
+<desc id="desc">Replotted data from a 2015–16 student project report. Petrol and acetylene fuel consumption are compared at 700, 1000, 1300, and 1800 revolutions per minute. Prepared by Ronak Mistry.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#122637"/><stop offset="1" stop-color="#08141f"/></linearGradient>
+  <pattern id="texture" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#bfd2dd" stroke-opacity=".045"/></pattern>
+</defs>
+<rect width="1200" height="760" fill="url(#bg)"/>
+<rect width="1200" height="760" fill="url(#texture)"/>
+<g font-family="Arial,Helvetica,sans-serif">
+  <text x="84" y="72" fill="#91adc0" font-size="18" font-weight="700" letter-spacing="5">ACADEMIC ENGINE TEST</text>
+  <text x="84" y="132" fill="#f3f5f4" font-size="42" font-weight="700">Fuel use by engine speed</text>
+  <text x="84" y="169" fill="#b7c5cc" font-size="21">Acetylene compared with petrol · reported test values</text>
+  <text x="84" y="220" fill="#d8e0e4" font-size="17">FUEL CONSUMPTION (g/s)</text>
+  <g stroke="#dce7ec" stroke-opacity=".15" stroke-width="1">
+    <path d="M214 258H1070M214 342H1070M214 427H1070M214 511H1070M214 595H1070"/>
+    <path d="M300 258V595M520 258V595M740 258V595M960 258V595" stroke-opacity=".08"/>
+  </g>
+  <g fill="#9eb1bc" font-size="16" text-anchor="end">
+    <text x="194" y="264">0.12</text><text x="194" y="348">0.09</text><text x="194" y="433">0.06</text><text x="194" y="517">0.03</text><text x="194" y="601">0.00</text>
+  </g>
+  <path d="M214 258V595H1070" fill="none" stroke="#b7c7ce" stroke-opacity=".55" stroke-width="2"/>
+  <g fill="#9eb1bc" font-size="16" text-anchor="middle">
+    <text x="300" y="626">700</text><text x="520" y="626">1000</text><text x="740" y="626">1300</text><text x="960" y="626">1800</text>
+    <text x="642" y="660" fill="#c4d0d5" font-size="17">ENGINE SPEED (rpm)</text>
+  </g>
+  <path d="M300 405.1L520 367.5L740 329L960 288.2" fill="none" stroke="#efb868" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M300 422.3L520 390.1L740 352.2L960 315.4" fill="none" stroke="#6ed1c3" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#efb868" stroke="#152636" stroke-width="3"><circle cx="300" cy="405.1" r="8"/><circle cx="520" cy="367.5" r="8"/><circle cx="740" cy="329" r="8"/><circle cx="960" cy="288.2" r="8"/></g>
+  <g fill="#6ed1c3" stroke="#152636" stroke-width="3"><circle cx="300" cy="422.3" r="8"/><circle cx="520" cy="390.1" r="8"/><circle cx="740" cy="352.2" r="8"/><circle cx="960" cy="315.4" r="8"/></g>
+  <g font-size="16" font-weight="600">
+    <path d="M754 211h34" stroke="#efb868" stroke-width="5"/><text x="798" y="217" fill="#e7edf0">Petrol</text>
+    <path d="M887 211h34" stroke="#6ed1c3" stroke-width="5"/><text x="931" y="217" fill="#e7edf0">Acetylene</text>
+  </g>
+  <text x="84" y="710" fill="#91adc0" font-size="15" letter-spacing="2">SOURCE DATA · 2015–16 PROJECT REPORT</text>
+  <text x="1116" y="710" text-anchor="end" fill="#f3f5f4" font-size="16" font-weight="700" letter-spacing="2">RONAK MISTRY</text>
+</g>
+</svg>

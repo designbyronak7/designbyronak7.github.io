@@ -6,6 +6,27 @@ permalink: /blog/
 ---
 
 <link rel="stylesheet" href="/assets/css/ronak-portfolio.css">
-
-{% include blog/search.html %}
-{% include blog/index.html %}
+<main class="portfolio-wrap">
+  <header class="portfolio-page-intro">
+    <p class="portfolio-eyebrow">Technical notes</p>
+    <h1 class="portfolio-heading">Project reports and engineering studies</h1>
+    <p class="portfolio-lede">Notes on the questions, test results, and limits behind my academic work.</p>
+  </header>
+  <section class="portfolio-section" aria-label="Blog posts">
+    <div class="blog-post-list">
+      {% for post in site.posts %}
+      <a class="work-card blog-card" href="{{ post.url | relative_url }}">
+        {% if post.image %}
+        <img src="{{ post.image | relative_url }}" alt="{{ post.image_alt | default: post.title | escape }}" loading="lazy">
+        {% endif %}
+        <div class="work-card-copy">
+          <p class="project-kicker">{{ post.date | date: "%B %d, %Y" }}{% if post.categories.size > 0 %} · {{ post.categories | first }}{% endif %}</p>
+          <h3>{{ post.title | escape }}</h3>
+          <p>{{ post.excerpt | strip_html | truncate: 240 }}</p>
+          <span class="blog-read-more">Read the post →</span>
+        </div>
+      </a>
+      {% endfor %}
+    </div>
+  </section>
+</main>

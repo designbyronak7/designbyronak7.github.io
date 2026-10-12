@@ -6,14 +6,18 @@ description: A student proof of concept that switched a water pump based on soil
 permalink: /projects/soil-moisture-irrigation/
 ---
 
-## Project overview
+<link rel="stylesheet" href="/assets/css/ronak-portfolio.css">
 
-This student project tested a simple idea: use a soil-moisture reading to decide when to run a small irrigation pump. An Arduino read the sensor and switched the pump through a relay.
+<p class="project-kicker">Academic prototype · irrigation control</p>
+
+## Design problem
+
+This academic prototype used a soil-moisture reading to decide when to run a small irrigation pump.
 
 {% include elements/figure.html image="/assets/img/projects/irrigation-controller.svg" caption="System overview; the prototype used on/off pump control" %}
 
-## What the prototype did
+## Control approach
 
-The controller compared the sensor reading with a configured moisture threshold and turned the pump on or off. The output was binary, so tuning the threshold and choosing a relay rated for the pump were important practical details.
+An Arduino read the sensor, compared the value with a configured moisture threshold, and switched the pump through a relay. The on/off control kept the system simple; the threshold and relay rating had to suit the sensor and pump.
 
-The working proof of concept did not include remote or weather-based control. Those were ideas for a later revision, not completed features.
+**Outcome and limits:** the proof of concept switched the pump based on the sensor reading. It did not include remote or weather-based control, and the project does not report field-performance measurements.

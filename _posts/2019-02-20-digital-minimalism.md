@@ -1,5 +1,6 @@
 ---
 title: Digital Minimalism
+published: false
 tags: [Social Media, Minimalism, Technology]
 style: 
 color: 

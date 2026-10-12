@@ -6,14 +6,20 @@ description: A college tool-design project for clamping layered material and kee
 permalink: /projects/sandwich-drill-jig/
 ---
 
-## Design brief
+<link rel="stylesheet" href="/assets/css/ronak-portfolio.css">
+
+<p class="project-kicker">Academic design project · jig design</p>
+
+## Design problem
 
 The assignment was to design a jig that holds layered material firmly while drilling, with as little shifting or deformation as possible.
 
-## Design considerations
+## My role and design choice
 
-I used SolidWorks to work through the clamping arrangement, repeatable hole location, rigidity, and access for loading and drilling. The goal was a practical jig that could produce the same hole pattern across multiple pieces, not a complex fixture that would be difficult to make.
+I used SolidWorks to work through the clamping arrangement, repeatable hole location, rigidity, and access for loading and drilling. I arranged the clamps to hold the layers steady while leaving the drill path open.
 
-This project gave me a better feel for the trade-offs between holding a part securely and leaving enough room to operate the drill.
+**Constraint:** the jig had to resist movement without distorting the layered material and allow the same hole pattern to be repeated across pieces.
+
+**Outcome:** I completed a simplified jig concept. The page does not claim a measured hole-position tolerance or show a production drawing.
 
 {% include elements/figure.html image="/assets/img/projects/sandwich-drill-jig.svg" caption="Simplified drill-jig concept; not a production drawing" %}

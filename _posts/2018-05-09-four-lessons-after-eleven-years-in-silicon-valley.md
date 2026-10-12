@@ -1,5 +1,6 @@
 ---
 title: 4 Lessons After 11 Years in Silicon Valley
+published: false
 tags: 
 style: fill
 color: success
